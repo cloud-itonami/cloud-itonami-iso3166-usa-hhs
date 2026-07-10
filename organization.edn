@@ -1,0 +1,3 @@
+;; Real-world organization location / contact.
+;; :head-role is institutional title only — no personal names.
+{:contact-page "Wikipedia", :ooyake-id "gov.usa.hhs", :sourced-from "com-etzhayyim-ooyake gov-units (verbatim where present)", :head-role-note "institutional office title only; personal names of current office-holders are intentionally NOT stored", :official-url "http://www.alabamapublichealth.gov/", :head-role "Secretary of Health and Human Services", :hq {:line-en "Hubert H. Humphrey Building, 200 Independence Ave SW, Washington DC", :country "usa", :kind "headquarters", :provenance "Wikipedia", :last-verified "2026-06-04", :sourcing "authoritative"}, :wikidata "Q4705249", :name-en "United States Department of Health and Human Services"}
