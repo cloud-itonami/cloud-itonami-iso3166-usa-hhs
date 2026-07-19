@@ -1,12 +1,12 @@
 ;; Real-world organization location / contact.
 ;; :head-role is institutional title only — no personal names.
 {:ooyake-id "gov.usa.hhs"
-  :official-url "http://www.alabamapublichealth.gov/"
+  :official-url "https://www.hhs.gov/"
   :name-en "United States Department of Health and Human Services"
-  :wikidata "Q4705249"
+  :wikidata "Q942326"
   :head-role "Secretary of Health and Human Services"
   :head-role-note "institutional office title only; personal names of current office-holders are intentionally NOT stored"
-  :contact-page "Wikipedia"
-  :sourced-from "com-etzhayyim-ooyake gov-units (verbatim where present)"
-  :hq {:line-en "Hubert H. Humphrey Building, 200 Independence Ave SW, Washington DC" :country "usa" :kind "headquarters" :provenance "Wikipedia" :last-verified "2026-06-04" :sourcing "authoritative"}
+  :contact-page "https://www.hhs.gov/about/contact-us/index.html"
+  :sourced-from "official public contact page"
+  :hq {:line-en "200 Independence Avenue SW, Washington, DC 20201" :line-local "200 Independence Avenue SW, Washington, DC 20201" :postal-code "20201" :phone "1-877-696-6775" :kind "headquarters" :provenance "https://www.hhs.gov/about/contact-us/index.html" :last-verified "2026-07-19" :sourcing "official-site-public" :country "usa"}
 }
