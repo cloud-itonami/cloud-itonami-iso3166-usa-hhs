@@ -18,7 +18,7 @@
   Uniform Guidance for Federal awards (2 CFR part 200).** The blueprint mixes
   award eligibility and HIPAA-adjacent readiness in one sentence; the
   regulations keep those books apart, and the absences below record that."
-  (:require [clojure.string :as str]))
+  (:require [kotoba.lang.text :as str]))
 
 ;; AUTO-COUNT 39
 
