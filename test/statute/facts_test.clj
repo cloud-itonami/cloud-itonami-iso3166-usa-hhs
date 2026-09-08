@@ -8,7 +8,7 @@
   fields the gate reads, the gate degrades into checking less and still exits
   0, which is the failure mode where a green light means nothing."
   (:require [clojure.test :refer [deftest is testing]]
-            [clojure.string :as str]
+            [kotoba.lang.text :as str]
             [statute.facts :as f]))
 
 (def all (f/entries))
