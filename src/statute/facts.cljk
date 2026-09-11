@@ -10,7 +10,7 @@
   Provenance. Every entry cites the official eCFR. `:statute/verified-label`
   is the byte-exact `label_description` from the eCFR versioner structure API
   on `:statute/verified-at`. Quote spans are byte-exact from the full-text API.
-  `tools/verify_citations.cljs` re-fetches both and fails on drift.
+  `tools/verify_citations.cljk` re-fetches both and fails on drift.
 
   THE TRAP THIS CATALOG EXISTS TO PIN DOWN. **HIPAA Privacy/Security
   (45 CFR parts 160/162/164, OCR) is not CMS program/payment rules
