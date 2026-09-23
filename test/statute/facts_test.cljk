@@ -7,7 +7,7 @@
   pin is the shape the live gate depends on: if the catalog stops carrying the
   fields the gate reads, the gate degrades into checking less and still exits
   0, which is the failure mode where a green light means nothing."
-  (:require [clojure.test :refer [deftest is testing]]
+  (:require [kotoba.test :refer [deftest is testing]]
             [kotoba.lang.text :as str]
             [statute.facts :as f]))
 
